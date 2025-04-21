@@ -1,4 +1,4 @@
-# JHU-Data-Science-Specialization
+# Johns Hopkins University -Data-Science-Specialization
 
 [JHU-Data-Science-Specialization](https://www.idies.jhu.edu/what-we-do/education-and-outreach/coursera-johns-hopkins/)
 
