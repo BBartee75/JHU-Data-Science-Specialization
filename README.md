@@ -4,7 +4,7 @@
 
 Specialization - 10 course series
 
-[Successful completion of Johns Hopkins University Data Science Specialization](https://coursera.org/share/6c7e4faa1fa42124d51e4e45d02576c3)
+[Johns Hopkins University Data Science Specialization](https://coursera.org/share/6c7e4faa1fa42124d51e4e45d02576c3)
 
 [Data Science: Statistics and Machine Learning Specialization Certificate!](https://coursera.org/share/996f80b688230f19a3af6d8cda809d49)
 
